@@ -1,2 +1,2 @@
 # scatch
-Homework 3 code from ATMS 591
+Code to complete Homework 3 in Atmospheric Sciences 591. A moist energy balance is applied to answer various questions and corresponding plots are made.
